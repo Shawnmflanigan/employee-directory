@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Shawnmflanigan/employee-directory/static/css/main.bd09ba0e.chunk.css",
+    "main.js": "/Shawnmflanigan/employee-directory/static/js/main.f69301bc.chunk.js",
+    "main.js.map": "/Shawnmflanigan/employee-directory/static/js/main.f69301bc.chunk.js.map",
+    "runtime-main.js": "/Shawnmflanigan/employee-directory/static/js/runtime-main.cc6cecb5.js",
+    "runtime-main.js.map": "/Shawnmflanigan/employee-directory/static/js/runtime-main.cc6cecb5.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Shawnmflanigan/employee-directory/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4dbbb4f7.chunk.js": "/Shawnmflanigan/employee-directory/static/js/2.4dbbb4f7.chunk.js",
+    "static/js/2.4dbbb4f7.chunk.js.map": "/Shawnmflanigan/employee-directory/static/js/2.4dbbb4f7.chunk.js.map",
+    "index.html": "/Shawnmflanigan/employee-directory/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Shawnmflanigan/employee-directory/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.bd09ba0e.chunk.css.map": "/Shawnmflanigan/employee-directory/static/css/main.bd09ba0e.chunk.css.map",
+    "static/js/2.4dbbb4f7.chunk.js.LICENSE.txt": "/Shawnmflanigan/employee-directory/static/js/2.4dbbb4f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc6cecb5.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4dbbb4f7.chunk.js",
+    "static/css/main.bd09ba0e.chunk.css",
+    "static/js/main.f69301bc.chunk.js"
+  ]
+}
